@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there, this is Sharon Yu. 👋
+- 🌱 I’m a front-end developer.
+- :mortar_board: I currently graduated from [iSpan](https://www.ispan.com.tw/).
+- :disguised_face: I’m currently self-learning **Redux** and **TypeScript**.
+- 📫 How to reach me: yu7477pp@gmail.com.
 
-<!--
-**sharonyu0823/sharonyu0823** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://badgen.net/badge/watchers/0/blue?icon=/github/watchers/micromatch/micromatch)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+***
+### :weight_lifting: Recent Projects
+
+- [iSpan](https://www.ispan.com.tw/)
+
+- 
+
+
