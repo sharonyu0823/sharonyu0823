@@ -10,7 +10,7 @@
 
 #### :sandwich: [SEIZEE](https://github.com/sharonyu0823/SEIZEE_React) (2022/12/14)
 - A website that helps you save food from being wasted.
-- mainly built by
+- mainly by
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white)
@@ -29,7 +29,10 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/111546956/209685300-57b358a1-5308-4ef2-8c88-ece4c5f88221.png" width="60%"><p>
 
 #### :high_heel: [Mock practice](https://github.com/sharonyu0823/Niunews_css) (2022/08/27)
+ - This is a CSS and HTML practice, referring to [Niusnews](https://www.niusnews.com/)
+ - mainly by
 
 
 
 <!-- ![](https://komarev.com/ghpvc/?username=sharonyu0823&style=flat) -->
+
