@@ -4,7 +4,7 @@
 - :disguised_face: I’m currently self-learning ![](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white) and ![](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white).
 - 📫 How to reach me: yu7477pp@gmail.com.
 
-![](https://komarev.com/ghpvc/?username=sharonyu0823&style=flat&color=brightgreen&label=VIEWS)
+<!-- ![](https://komarev.com/ghpvc/?username=sharonyu0823&style=flat&color=brightgreen&label=VIEWS) -->
 
 ##  ##
 ### GitHub Profile Trophy 🏆
