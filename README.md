@@ -1,7 +1,7 @@
 ### Hi there, this is Sharon Yu.👋
 - 🌱 I’m a front-end developer.
 - :mortar_board: I currently graduated from [iSpan](https://www.ispan.com.tw/).
-- :disguised_face: I’m currently self-learning ![](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white) and ![](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white).
+<!-- - :disguised_face: I’m currently self-learning ![](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white) and ![](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white). -->
 - 📫 How to reach me: yu7477pp@gmail.com.
 
 <!-- ![](https://komarev.com/ghpvc/?username=sharonyu0823&style=flat&color=brightgreen&label=VIEWS) -->
@@ -40,4 +40,4 @@ Those pinned repos are my hard work that I want to show you and below is for you
 
 <p><img src="https://user-images.githubusercontent.com/111546956/209688598-3b2897f2-2c60-415e-8f4e-ab2b1b1cf877.png" width="40%"><p>
  
- #### :dark_sunglasses: TBC: Redux practice...
+<!--  #### :dark_sunglasses: TBC: Redux practice... -->
