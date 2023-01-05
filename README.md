@@ -1,8 +1,8 @@
 ### Hi there, this is Sharon Yu.👋
 - 🌱 I’m a front-end developer.
 - :mortar_board: I currently graduated from [iSpan](https://www.ispan.com.tw/).
-<!-- - :disguised_face: I’m currently self-learning ![](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white) and ![](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white). -->
 - 📫 How to reach me: yu7477pp@gmail.com.
+<!-- - :disguised_face: I’m currently self-learning ![](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white) and ![](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white). -->
 
 <!-- ![](https://komarev.com/ghpvc/?username=sharonyu0823&style=flat&color=brightgreen&label=VIEWS) -->
 
